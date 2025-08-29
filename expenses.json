@@ -1,0 +1,32 @@
+[
+    {
+        "amount": 100,
+        "category": "Food",
+        "date": "2025-08-20"
+    },
+    {
+        "amount": 50,
+        "category": "Transport",
+        "date": "2025-08-20"
+    },
+    {
+        "amount": 100.0,
+        "category": "Game",
+        "date": "2025-08-20"
+    },
+    {
+        "amount": 900.0,
+        "category": "xx",
+        "date": "2025-08-20"
+    },
+    {
+        "amount": 10.0,
+        "category": "11",
+        "date": "2025-08-20"
+    },
+    {
+        "amount": 5000000000000000.0,
+        "category": "Game",
+        "date": "2025-08-20"
+    }
+]
